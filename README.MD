@@ -24,7 +24,6 @@
 ![N|Solid](README.MD_images/exemplos.png)
 <p><center>
 <img src="README.MD_images/exemplos_foot.png">
-![N|Solid](README.MD_images/exemplos_foot.png)
 </center></p>
 Pensado para a escabilidade e agilidade necessária em ambientes de produção, com a simplicidade do educacional.
 _Guarde seus modais em funções e/ou variaveis js, que serão criados e invocados dinamicamente em seu front, somente quando for necessário._
@@ -114,7 +113,7 @@ Além de um arquivo (exemplo.php), incluso neste repositório. Você poderá uti
 -- -
 &nbsp;
 ##### Exemplo de modal de informação.:
-![N|Solid](https://imgcloud.com.br/share/VSXQx7jBEGWktghn)
+![N|Solid](README.MD_images/info.png)
 #### Script correspondente: 
 ```script
 </SCRIPT>
@@ -125,7 +124,7 @@ info('isto é um exemplo de info');
 &nbsp; 
 
 ##### Exemplo de formuário. Utilizando AJAX, com method POST:
-![N|Solid](https://imgcloud.com.br/share/seprcNaYDroCmWzl)
+![N|Solid](README.MD_images/form.png)
 
 #### Script correspondente: 
 ```script
@@ -148,7 +147,7 @@ info('isto é um exemplo de info');
 &nbsp; 
 
 ##### Exemplo de alert:
-![N|Solid](https://imgcloud.com.br/share/X6OFpvOfMeZjhtTn)
+![N|Solid](README.MD_images/alert.png)
 
 #### Script correspondente: 
 ```script
@@ -164,7 +163,7 @@ alert('isto é um exemplo de alert');
 *OBS:* Este modal além de disparar um som característico. Possui integração com o recurso notification presentes em PWAs (webapp e aplicações mobiles):
 - *Embora este recurso realize o disparo de notificações, sendo automaticamente compatível com qualquer biblioteca (já instalada). Os arquivos "WebServices.js", "notifi.js" e "PWA.js" não estão inclusos nesta aplicação. Caso tenhas a necessidade de disparar notificações em seu APP, PWA, sistema web ou site, e não possua este recurso, por meio de uma biblioteca externa. Poderás incorporar para este fim, qualquer biblioteca de notificação (webservice) de sua preferência. Uma vez que a biblioteca de notificações já esteja corretamente instalada e disponível. Os exemplos deste repositório, não exigirão modificações e/ou correções, para disparar notificações aos seus usuários.* 
 
-![N|Solid](https://imgcloud.com.br/share/ScMgHFVGteoYY4QT)
+![N|Solid](README.MD_images/alarm.png)
 
 #### Script correspondente: 
 ```script
@@ -185,7 +184,7 @@ alarm('isto é um exemplo de alarme');
 
 
 
-| [![Build Status](https://imgcloud.com.br/share/gzR6dJrb6erRLm4N)](https://linkedin.com/in/levymac) |  [![Build Status](https://imgcloud.com.br/share/8AunJBQfkqaYqz4G)](https://t.me/levymac)  |
+| [![Build Status](README.MD_images/3x4_min.gif)](https://linkedin.com/in/levymac) |  [![Build Status](README.MD_images/label_.png)](https://t.me/levymac)  |
 | ------ | ------ |
 ##### Sr. Vcitor Batista
 

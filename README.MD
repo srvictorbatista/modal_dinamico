@@ -5,12 +5,12 @@
 [![Build Status](https://img.shields.io/badge/build%200.01%20-100%25-success)](https://github.com/srvictorbatista/modal_dinamico) 
 
 
-##### Linguagens utilizadas: 
-<br><img src="README.MD_images/brand_jp_php.png"><br><sup>JavaScript, PHP</sup>
+###### Linguagens utilizadas: 
+<img src="README.MD_images/brand_jp_php.png"><br><sup>JavaScript, PHP</sup>
 
  
-##### Bibliotecas necessárias:
-<br><img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
+###### Bibliotecas necessárias:
+<img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
 
 
 # Autor

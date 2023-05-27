@@ -9,6 +9,7 @@
 Linguagens utilizadas: 
 
 ![N|Solid](README.MD_images/brand_jp_php.png) 
+JavaScript, PHP
  
 Bibliotecas necessárias:
 ![N|Solid](https://imgcloud.com.br/share/hyEpWGwBIGAfySPz)

@@ -23,7 +23,7 @@
 ### MODAL DISPLAYs: 
 ![N|Solid](README.MD_images/exemplos.png)
 <p><center>
-![N|Solid](https://imgcloud.com.br/share/ecLnpI4ybCacAVkT)
+![N|Solid]("README.MD_images/Sem título-1.png")
 </center></p>
 Pensado para a escabilidade e agilidade necessária em ambientes de produção, com a simplicidade do educacional.
 _Guarde seus modais em funções e/ou variaveis js, que serão criados e invocados dinamicamente em seu front, somente quando for necessário._

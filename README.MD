@@ -10,9 +10,8 @@ Linguagens utilizadas:
 
  
 Bibliotecas necessárias:
-<img src="https://imgcloud.com.br/share/hyEpWGwBIGAfySPz"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
+<img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
 
-![N|Solid](https://imgcloud.com.br/share/hyEpWGwBIGAfySPz)
 
 # Autor
 | [<img src="https://avatars.githubusercontent.com/u/131806887?v=4" width=115><br><sub>Sr. Victor Batista</sub>](https://github.com/srvictorbatista) |

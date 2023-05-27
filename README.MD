@@ -21,7 +21,7 @@
 [![Contact|Solid](https://img.shields.io/badge/contact%20%5BPT--BR%5D-@levymac-9cf?labelColor=brightgrey&style=for-the-badge&logo=telegram)](https://t.me/levymac)
 
 ### MODAL DISPLAYs: 
-![N|Solid](https://imgcloud.com.br/share/ghzH7NSvO3wzPDv0)
+![N|Solid](README.MD_images/exemplos.png)
 <p><center>
 ![N|Solid](https://imgcloud.com.br/share/ecLnpI4ybCacAVkT)
 </center></p>

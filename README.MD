@@ -10,11 +10,11 @@ Linguagens utilizadas:
 
  
 Bibliotecas necessárias:
-<img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
+<img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><br><sup>jQuery, fontAwesome, Bootstrap</sup>
 
 
 # Autor
-| [<img src="https://avatars.githubusercontent.com/u/131806887?v=4" width=115><br><sub>Sr. Victor Batista</sub>](https://github.com/srvictorbatista) |
+| [<img src="https://avatars.githubusercontent.com/u/131806887?v=4" width=115><br><sup>Sr. Victor Batista</sup>](https://github.com/srvictorbatista) |
 | :---: |
 
 ##### CONTATO:

@@ -7,6 +7,7 @@
 
 
 Linguagens utilizadas: 
+
 ![N|Solid](README.MD_images/brand_jp_php.png) 
  
 Bibliotecas necessárias:

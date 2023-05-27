@@ -6,14 +6,12 @@
 
 
 Linguagens utilizadas: 
-
-![N|Solid](README.MD_images/brand_jp_php.png) 
-JavaScript, PHP
-
 <img src="README.MD_images/brand_jp_php.png"><br><sup>JavaScript, PHP</sup>
 
  
 Bibliotecas necessárias:
+<img src="https://imgcloud.com.br/share/hyEpWGwBIGAfySPz"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
+
 ![N|Solid](https://imgcloud.com.br/share/hyEpWGwBIGAfySPz)
 
 # Autor

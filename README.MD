@@ -6,11 +6,11 @@
 
 
 Linguagens utilizadas: 
-<img src="README.MD_images/brand_jp_php.png"><br><sup>JavaScript, PHP</sup>
+<br><img src="README.MD_images/brand_jp_php.png"><br><sup>JavaScript, PHP</sup>
 
  
 Bibliotecas necessárias:
-<img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><br><sup>jQuery, fontAwesome, Bootstrap</sup>
+<br><img src="README.MD_images/brand_jquery_bootstrap_awessome.png"><br><sup>jQuery, fontAwesome, Bootstrap</sup>
 
 
 # Autor

@@ -23,6 +23,7 @@
 ### MODAL DISPLAYs: 
 ![N|Solid](README.MD_images/exemplos.png)
 <p><center>
+<img src="README.MD_images/exemplos_foot.png">
 ![N|Solid](README.MD_images/exemplos_foot.png)
 </center></p>
 Pensado para a escabilidade e agilidade necessária em ambientes de produção, com a simplicidade do educacional.

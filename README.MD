@@ -5,7 +5,9 @@
 ###### BADGE STATUS:
 [![Build Status](https://img.shields.io/badge/build%200.01%20-100%25-success)](https://github.com/srvictorbatista/modal_dinamico) 
 Linguagens utilizadas: 
-[<img src="https://imgcloud.com.br/share/wSJ08uCgvNhbI7Iv"><br><sub>JavaScript e PHP</sub>]
+
+
+[<img src="https://imgcloud.com.br/share/wSJ08uCgvNhbI7Iv"><br><sub>JavaScript e PHP</sub>](#)
  
 Bibliotecas necessárias:
 ![N|Solid](https://imgcloud.com.br/share/hyEpWGwBIGAfySPz)

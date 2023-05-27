@@ -2,14 +2,15 @@
 #### _Crie modais para seus front-ends web, dinamicamente de forma prática e incorruptível._
 
 
-###### BADGE STATUS:
 [![Build Status](https://img.shields.io/badge/build%200.01%20-100%25-success)](https://github.com/srvictorbatista/modal_dinamico) 
 
 
 Linguagens utilizadas: 
 
 ![N|Solid](README.MD_images/brand_jp_php.png) 
+
 JavaScript, PHP
+
  
 Bibliotecas necessárias:
 ![N|Solid](https://imgcloud.com.br/share/hyEpWGwBIGAfySPz)
